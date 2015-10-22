@@ -1,0 +1,22 @@
+./DL2-train -E 1 -MA 3 -IM 1 -CO 0 -RS 1 -e 0.00001 -NS 1 -c 1000 -FT ../datasets/chessboard-scaled-pows/chessboard.scaled.2pow-10
+
+./DL2-train -E 1 -MA 1 -IM 1 -CO 0 -RS 1 -e 0.00001 -NS 1 -c 1000 -FT ../datasets/chessboard-scaled-pows/chessboard.scaled.2pow-9
+
+./DL2-train -E 1 -MA 1 -IM 0 -CO 0 -RS 1 -e 0.00001 -NS 1 -c 1000 -FT ../datasets/chessboard-scaled-pows/chessboard.scaled.2pow-8
+
+./DL2-train -E 1 -MA 1 -IM 0 -CO 0 -RS 1 -e 0.00001 -NS 1 -c 1000 -FT ../datasets/chessboard-scaled-pows/chessboard.scaled.2pow-7
+
+./DL2-train -E 1 -MA 1 -IM 0 -CO 0 -RS 1 -e 0.00001 -NS 1 -c 1000 -FT ../datasets/chessboard-scaled-pows/chessboard.scaled.2pow-6
+
+./DL2-train -E 1 -MA 1 -IM 0 -CO 0 -RS 1 -e 0.00001 -NS 1 -c 1000 -FT ../datasets/chessboard-scaled-pows/chessboard.scaled.2pow-5
+
+./DL2-train -E 1 -MA 1 -IM 0 -CO 0 -RS 1 -e 0.00001 -NS 1 -c 1000 -FT ../datasets/chessboard-scaled-pows/chessboard.scaled.2pow-4
+
+./DL2-train -E 1 -MA 1 -IM 0 -CO 0 -RS 1 -e 0.00001 -NS 1 -c 1000 -FT ../datasets/chessboard-scaled-pows/chessboard.scaled.2pow-3
+
+./DL2-train -E 1 -MA 1 -IM 0 -CO 0 -RS 1 -e 0.00001 -NS 1 -c 1000 -FT ../datasets/chessboard-scaled-pows/chessboard.scaled.2pow-2
+
+./DL2-train -E 1 -MA 1 -IM 0 -CO 0 -RS 1 -e 0.00001 -NS 1 -c 1000 -FT ../datasets/chessboard-scaled-pows/chessboard.scaled.2pow-1
+
+./DL2-train -E 1 -MA 1 -IM 0 -CO 0 -RS 1 -e 0.00001 -NS 1 -c 1000 -FT ../datasets/chessboard-scaled-pows/chessboard.scaled.2pow-0
+

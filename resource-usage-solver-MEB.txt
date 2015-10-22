@@ -1,0 +1,3148 @@
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 12288.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215120.643845 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215120.643845 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215120.643845 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215120.643845 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215052.796188 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215052.796188 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215052.796188 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215052.796188 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215052.796188 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215052.796188 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215052.796188 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134214968.065720 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134214968.065720 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134214968.065720 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134214968.065720 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134214968.065720 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134214968.065720 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215110.417450 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215110.417450 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134214933.495575 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134214933.495575 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215010.800262 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215010.800262 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134214999.612762 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134214999.612762 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215041.901825 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215041.901825 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215101.987762 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215101.987762 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134214958.597137 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134214958.597137 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215088.917450 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215088.917450 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215153.249481 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 134215037.792313 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
+resources-usage in: iteration of MEB solver
+memory usage: 0.000000 Mb
+resident set: 0.000000
+
